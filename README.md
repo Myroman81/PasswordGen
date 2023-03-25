@@ -4,4 +4,4 @@ For this password generator I tried to utilize some of the newly introduced tool
 
 Github: https://github.com/Myroman81/PasswordGen
 
-Live link:  
+Live link:  https://myroman81.github.io/PasswordGen/
